@@ -1,0 +1,5 @@
+package com.project.EcommercePortal.dao;
+
+public interface ProductCategoryRepository {
+
+}

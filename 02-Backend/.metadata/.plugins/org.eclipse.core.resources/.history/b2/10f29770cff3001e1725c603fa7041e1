@@ -1,0 +1,5 @@
+package com.project.EcommercePortal.entity;
+
+public class Product {
+
+}

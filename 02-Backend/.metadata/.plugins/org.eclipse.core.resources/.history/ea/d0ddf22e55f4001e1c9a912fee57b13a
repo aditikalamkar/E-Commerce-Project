@@ -1,0 +1,9 @@
+package com.project.EcommercePortal.dao;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.project.EcommercePortal.entity.Product;
+
+public interface ProductRepository extends JpaRepository <Product, Long> {
+
+}
